@@ -1,0 +1,2 @@
+Abdul,Majeed,Muhammad Aslam,M,14-09-1990,35201-09876543-2,78000,1,majeed,1234
+Sajal,Saeed,Saeed Khushi,F,19-05-2003,35201-09876543-2,99000,2,sajal,1234

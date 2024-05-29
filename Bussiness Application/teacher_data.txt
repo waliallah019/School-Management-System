@@ -1,0 +1,5 @@
+Aima,Baig,Saleem Khan,F,04-06-1994,35201-09876543-2,BA,2,85000,2,@ima,1234
+Arham,Baig,Hussain Baig,M,06-04-1995,35201-09876543-2,MA,3,85000,3,@rham,1234
+Mustafa,Hassan,Saddiq Ali,M,14-03-1994,35201-09876543-2,BA,4,80000,4,must@fa,1234
+Wali,Allah,Asif Ali,M,19-12-1995,35201-09876543-2,BS CS,5,95000,5,wali,1234
+Sanam,Shehbaz,Shehbaz Ali,F,03-06-1996,35201-09876543-2,BS Ecnomics,1,75000,1,sanam12,1234

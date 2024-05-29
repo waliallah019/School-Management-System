@@ -1,0 +1,84 @@
+#include <iostream>
+using namespace std;
+main()
+{
+  int examHour;
+  int examMiutes;
+  int studenthours;
+  int studentminutes;
+  cout << "Enter Exam Time in hours:";
+  cin >> examHour;
+  cout << "Enter Exam Time in minutes:";
+  cin >> examMiutes;
+  cout << "Enter Student Time in hours:";
+  cin >> studenthours;
+  cout << "Enter Student Time in minutes:";
+  cin >> studentminutes;
+  int conversion;
+  conversion = examHour * 60;
+  int time1;
+  time1 = conversion + examMiutes;
+  int conversion2;
+  conversion2 = studenthours * 60;
+  int time2;
+  int arrivaltime;
+  int clock;
+  int clock1;
+  int clock2;
+  int clock3;
+  int studentarrival;
+  time2 = conversion2 + studentminutes;
+  
+  if (time1 == time2)
+  {
+    cout << "On TIME";
+  }
+  else if(time1 < time2)
+  {
+    arrivaltime = time2 - time1;
+    if (arrivaltime > 30 && arrivaltime < 60)
+    {
+
+    }
+  }
+  else if (time1 < time2)
+  {
+    arrivaltime = time2 - time1;
+    if (arrivaltime > 30 && arrivaltime < 60)
+    {
+      cout << "Early";
+      cout << arrivaltime;
+    }
+    else
+    {
+      clock = arrivaltime % 60;
+      clock1 = arrivaltime / 60;
+      cout << "Early!!";
+      cout << clock1;
+      cout << ":";
+      cout << clock2;
+    }
+  }
+  else if (time1 > time2)
+  {
+    studentarrival = time1 - time2;
+    if (studentarrival <= 30)
+    {
+      cout << "on time";
+    }
+    else if (studentarrival > 30 && studentarrival < 60)
+    {
+      cout << "TOO LATE!!!";
+      cout << studentarrival;
+    }
+    else
+    {
+      clock2 = studentarrival % 60;
+      clock3 = studentarrival / 60;
+      cout << "TOOO LATE!!!";
+      cout << clock3;
+      cout << ":";
+      cout << clock2;
+    }
+  }
+}

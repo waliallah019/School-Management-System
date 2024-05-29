@@ -1,0 +1,9 @@
+Electricity Bill,19000
+Paint,25000
+Markers,2500
+Dengue Spray,7000
+3,122000
+Benches,30000
+PAINT,12000
+White Wash,45000
+White wash,25000

@@ -1,0 +1,5 @@
+Saqlain,Mansab,Rehmat Ali,M,13-08-2009,Government Employee,8,5000,2,saqlain,1234
+Zulqarnain,Ahmad,Ahmad Hassan,M,23-09-2011,Shop Keeper,4,2300,3,zulqi,1234
+Fatima,Raees,Shokat Ali,F,23-03-2015,Bank Manager,5,8000,2,fatima,1234
+Sami,Ullah,Asif Ali,M,23-09-2009,Principal,8,8000,6,s@mi,1234
+Ahmad,Ali,Amjad,M,20-09-2008,Teacher,9000,99,2,ahmad,ahmad
